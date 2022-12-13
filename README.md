@@ -28,6 +28,6 @@ Minh-Thang Luong, Hieu Pham, Christopher D. Manning. EMNLP. 2015
 - [Attention Is All You Need.](https://arxiv.org/abs/1706.03762)  
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. NIPS. 2017.
 
-#### 6. [BERT](https://github.com/SJ1115/Homework/blob/main/6.%20/BERT)
+#### 6. [BERT](https://github.com/SJ1115/Homework/blob/main/6.%20BERT/)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://arxiv.org/abs/1810.04805)  
 Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. NAACL-HLT. 2019.
