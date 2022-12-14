@@ -1,7 +1,7 @@
 # Homework
 This is for the Freshman Assignment of D.I.Lab. K.U.  
 It consists of **6** sections, **8** models(papers), about basic, general and popular topics which play *flag-ships* in **NLP** domain.  
-The **CONTENT** of whole/each section(s) are below.
+The **CONTENTS** of whole/each section(s) are below.
 
 #### 1. [Word2Vec](https://github.com/SJ1115/Homework/blob/main/1.%20Word2Vec/)
 - [Efficient Estimation of Word Representations in Vector Space.](https://arxiv.org/abs/1301.3781)  
